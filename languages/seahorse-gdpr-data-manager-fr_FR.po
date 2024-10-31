@@ -1,0 +1,620 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: seahorse-gdpr-data-manager 2.4.1\n"
+"POT-Creation-Date: 2019-10-10 17:44+0200\n"
+"PO-Revision-Date: 2019-10-30 16:09+0000\n"
+"Last-Translator: \n"
+"Language-Team: Seahorse Data\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: assets/shgdprdm_language.php:10
+msgid ""
+"Thanks for installing GDPR Data Manager, to access your licence key visit: "
+"%s."
+msgstr ""
+"Merci d'avoir installé GDPR Data Manager, pour accéder à votre visite clé de "
+"licence: %s."
+
+#: assets/shgdprdm_language.php:21
+#, fuzzy
+msgid ""
+"Join us in celebrating the launch of the %s plugin with a %s3-Month Free "
+"Trial%s period! Limited time only."
+msgstr ""
+"Joignez-vous à nous pour célébrer le lancement du plugin %s avec une période "
+"d'essai gratuit de %s3 mois! Temps limité seulement."
+
+#: assets/shgdprdm_language.php:33
+msgid "Search User"
+msgstr "Chercher un utilisateur"
+
+#: assets/shgdprdm_language.php:41
+msgid "Your Database"
+msgstr "Votre base de données"
+
+#: assets/shgdprdm_language.php:49
+msgid "Search"
+msgstr "Rechercher"
+
+#: assets/shgdprdm_language.php:57
+msgid "Pending"
+msgstr "En attente"
+
+#: assets/shgdprdm_language.php:65
+msgid "Privacy Policy"
+msgstr "Politique de confidentialité"
+
+#: assets/shgdprdm_language.php:73
+msgid "Options"
+msgstr "Options"
+
+#: assets/shgdprdm_language.php:81
+msgid "History"
+msgstr "Historique"
+
+#: assets/shgdprdm_language.php:89
+msgid "Help & Support"
+msgstr "Aide & Support"
+
+#: assets/shgdprdm_language.php:97
+msgid "Register Licence"
+msgstr "Enregistrement de licence"
+
+#: assets/shgdprdm_language.php:106
+msgid "%s - Options"
+msgstr "%s - Options"
+
+#: assets/shgdprdm_language.php:118
+msgid "Verification of Data Deletion Request"
+msgstr "Vérification de la demande de suppression de données"
+
+#: assets/shgdprdm_language.php:127
+msgid ""
+"%sPlease confirm that you have requested your data be completely removed "
+"from the %s database.%s%sThis action cannot be undone. For security reasons "
+"this link will expire in 24 hours and can only be used once. If you do "
+"nothing, the status of your data will remain unchanged.%s%sClick this link "
+"to verify the request: %s"
+msgstr ""
+"%sPlease confirm that you have requested your data be completely removed "
+"from the %s database.%s%sThis action cannot be undone. For security reasons "
+"this link will expire in 24 hours and can only be used once. If you do "
+"nothing, the status of your data will remain unchanged.%s%sClick this link "
+"to verify the request: %s"
+
+#: assets/shgdprdm_language.php:144
+#, fuzzy
+msgid ""
+"%sPlease confirm that you wish to proceed with the completion of Record "
+"Synchronisation.%sWhen executed, this action will delete all the user data "
+"for the syncronised record from the %s database.%sOnce executed, this action "
+"cannot be undone.%s%sClick this link to verify the request: %s"
+msgstr ""
+"%sVeuillez confirmer que vous souhaitez procéder à l'achèvement de Record "
+"Synchronisation.%sLorsqu'il est exécuté, cette action supprimera toutes les "
+"données utilisateur de l'enregistrement synchronisé de la base de données "
+"%sOnce exécuté, cette action ne peut pas être annulée.%s%sCliquez ce lien "
+"vers vérifier la demande: %s"
+
+#: assets/shgdprdm_language.php:160
+msgid "Verification of Data Export Request"
+msgstr "Vérification de la demande d'exportation de données"
+
+#: assets/shgdprdm_language.php:169
+msgid ""
+"%sPlease confirm that you have requested your data be exported from the %s "
+"database.%s%sClick this link to verify the request: %s"
+msgstr ""
+"%sPlease confirm that you have requested your data be exported from the %s "
+"database.%s%sClick this link to verify the request: %s"
+
+#: assets/shgdprdm_language.php:184
+msgid ""
+"%sPlease ignore this email if this was made in error or may be malicious.%s"
+"%sRegards%s%s Team%s"
+msgstr ""
+"%sPlease ignore this email if this was made in error or may be malicious.%s"
+"%sRegards%s%s Team%s"
+
+#: assets/shgdprdm_language.php:199
+msgid "Verify Request"
+msgstr "Vérifier la demande"
+
+#: assets/shgdprdm_language.php:212
+#, fuzzy
+msgid "Search%sUser"
+msgstr "Search%sUser (en)"
+
+#: assets/shgdprdm_language.php:222
+#, fuzzy
+msgid "Enter User ID Number"
+msgstr "Entrez le numéro d'iD de l'utilisateur"
+
+#: assets/shgdprdm_language.php:229
+#, fuzzy
+msgid "Enter User Email Address"
+msgstr "Entrez l'adresse e-mail de l'utilisateur"
+
+#: assets/shgdprdm_language.php:236
+msgid "The content has been deleted by the user"
+msgstr "Le contenu a été supprimé par l'utilisateur"
+
+#: assets/shgdprdm_language.php:245
+msgid ""
+"The boiler plate text provided here makes a number of assumptions. %s "
+"strongly advises that users read and edit the text below as required to best "
+"suit the operations of your site. The Right to Data section is only "
+"available to %s and %s users as this relates to %s services that require a "
+"licence."
+msgstr ""
+"Le texte de la plaque de chaudière fourni ici fait un certain nombre "
+"d'hypothèses. %s conseille fortement aux utilisateurs de lire et de modifier "
+"le texte ci-dessous au besoin pour mieux s'adapter aux opérations de votre "
+"site. La section Droit de données n'est accessible qu'aux utilisateurs %s et "
+"%s car il s'agit de services %s qui nécessitent une licence."
+
+#: assets/shgdprdm_language.php:260
+msgid "General information"
+msgstr "Informations générales"
+
+#: assets/shgdprdm_language.php:269
+#, fuzzy
+msgid ""
+"%sWelcome to the %s Privacy Policy page. When you use site, you trust us "
+"with your information"
+msgstr ""
+"%sBienvenue à la page %s Privacy Policy. Lorsque vous utilisez le site, vous "
+"nous faites confiance avec vos informations"
+
+#: assets/shgdprdm_language.php:288
+msgid "Right to access, edit and delete data and to object to data processing"
+msgstr ""
+"Droit d'accès, de modification et de suppression de données et d'objection "
+"au traitement des données"
+
+#: assets/shgdprdm_language.php:297
+#, fuzzy
+msgid ""
+"%sOur customers have the right to access, correct and delete personal data "
+"relating to them"
+msgstr ""
+"%sNos clients ont le droit d'accéder, de corriger et de supprimer les "
+"données personnelles qui les concernent"
+
+#: assets/shgdprdm_language.php:326
+#, fuzzy
+msgid "Management of personal data"
+msgstr "Gestion des données personnelles"
+
+#: assets/shgdprdm_language.php:335
+#, fuzzy
+msgid ""
+"%sYou can view or edit your personal data online for many of the %s service"
+msgstr ""
+"%sVous pouvez afficher ou modifier vos données personnelles en ligne pour un "
+"grand nombre des %s service"
+
+#: assets/shgdprdm_language.php:357
+msgid "Information we collect"
+msgstr "Les données que nous recueillons"
+
+#: assets/shgdprdm_language.php:366
+#, fuzzy
+msgid "%sThe %s site collects data to operate effectively and provid"
+msgstr "%sLe site %s recueille des données pour fonctionner efficacement et"
+
+#: assets/shgdprdm_language.php:398
+#, fuzzy
+msgid "%s%s uses the data we collect for three basic purposes"
+msgstr "%s%s utilise les données que nous recueillons à trois fins de base"
+
+#: assets/shgdprdm_language.php:420
+msgid "Sharing your information"
+msgstr "Partage d’information vous concernant"
+
+#: assets/shgdprdm_language.php:429
+#, fuzzy
+msgid "%s%s will only share your personal dat"
+msgstr "%s%s ne partagera que votre dat personnel"
+
+#: assets/shgdprdm_language.php:459
+#, fuzzy
+msgid ""
+"%s will search and process data in these tables: %scontains personally "
+"identifying information - PII%s"
+msgstr ""
+"%s recherchera et traitera des données dans ces tableaux : %scontains "
+"personnaling personally identifying information - PII%s"
+
+#: assets/shgdprdm_language.php:472
+#, fuzzy
+msgid ""
+"%s will search these tables (%scontains personally identifying information - "
+"PII%s"
+msgstr ""
+"%s recherchera ces tableaux (%scontains informations d'identification "
+"personnelle - PII%s"
+
+#: assets/shgdprdm_language.php:488
+#, fuzzy
+msgid "%s will not search this table"
+msgstr "%s ne cherchera pas cette table"
+
+#: assets/shgdprdm_language.php:500
+#, fuzzy
+msgid "Upgrade to the %s Version to expand what data can be searched: %s | %s"
+msgstr ""
+"Mise à niveau vers la version %s pour étendre les données qui peuvent être "
+"recherchées: %s %s (en %)"
+
+#: assets/shgdprdm_language.php:516
+#, fuzzy
+msgid "%sInvalid email format.%sEmail string value was not of valid format"
+msgstr ""
+"%sInvalid email format.%sEmail string value was not of valid format "
+"%sInvalid email format.%sEmail string value was not of valid format"
+
+#: assets/shgdprdm_language.php:527
+#, fuzzy
+msgid "Cannot connect to DB. CMS app was unable to connect to the DB"
+msgstr ""
+"Impossible de se connecter à DB. L'application CMS n'a pas pu se connecter à "
+"la DB"
+
+#: assets/shgdprdm_language.php:535
+#, fuzzy
+msgid "DB table not found. Table declared in module code was not found"
+msgstr ""
+"Table DB introuvable. Le tableau déclaré dans le code du module n'a pas été "
+"trouvé"
+
+#: assets/shgdprdm_language.php:543
+#, fuzzy
+msgid "Data export error. Could not export data from table (+MySQL error)"
+msgstr ""
+"Erreur d'exportation de données. Impossible d'exporter des données à partir "
+"du tableau (erreur MySQL)"
+
+#: assets/shgdprdm_language.php:551
+#, fuzzy
+msgid "MySQL error Return MySQL system error for display"
+msgstr "Erreur MySQL Retour D'erreur du système MySQL pour l'affichage"
+
+#: assets/shgdprdm_language.php:559
+#, fuzzy
+msgid "Delete data error. Error deleting data (+MySQL error)"
+msgstr ""
+"Supprimer l'erreur de données. Suppression d'erreurs de données (erreur "
+"MySQL)"
+
+#: assets/shgdprdm_language.php:568
+#, fuzzy
+msgid ""
+"%sInvalid/Unknown Email%sThe Email address provided is not valid or is "
+"unknown"
+msgstr ""
+"%sInvalid/Unknown Email%sL'adresse e-mail fournie n'est pas valide ou "
+"inconnue"
+
+#: assets/shgdprdm_language.php:580
+#, fuzzy
+msgid ""
+"%sInvalid/Unknown User ID%sThe User ID Number provided is not valid or is "
+"unknown"
+msgstr ""
+"%sInvalide/Inconnu ID%sLe numéro d'utilisateur fourni n'est pas valide ou "
+"inconnu"
+
+#: assets/shgdprdm_language.php:592
+#, fuzzy
+msgid "%sInvalid Request%sYou are not authorised to carry out this request"
+msgstr "%sInvalid Request%sVous n'êtes pas autorisé à exécuter cette demande"
+
+#: assets/shgdprdm_language.php:604
+#, fuzzy
+msgid ""
+"%sINTENTIONAL TESTING ERROR CREATED (Replicate err_009)%sYou are not "
+"authorised to carry out this request"
+msgstr ""
+"%sINTENTIONAL TESTING ERROR CREATED (Replicate err-009)%sVous n'êtes pas "
+"autorisé à exécuter cette demande"
+
+#: assets/shgdprdm_language.php:616
+#, fuzzy
+msgid ""
+"%sData Retrieval Error%sThere is a problem with the retrieved data.%sPlease "
+"contact %s"
+msgstr ""
+"%sData Retrieval Error%sIl y a un problème avec les données récupérées."
+"%sS'il vous plaît contacter %s"
+
+#: assets/shgdprdm_language.php:630
+#, fuzzy
+msgid ""
+"%sData Synchronise Error%sA problem has been identifed when attempting to "
+"Synchronise these data.%sPlease contact %sError Ref: "
+msgstr ""
+"%sData SynchroniseR Error%sUn problème a été identifié lors de la tentative "
+"de synchroniser ces données.%sS'il vous plaît contacter %sError Ref:"
+
+#: assets/shgdprdm_language.php:649
+#, fuzzy
+msgid "%sNo records found%sSearch terms returned 0 results"
+msgstr ""
+"%sNo enregistrements trouvés%sLes termes de recherche retournés 0 résultats"
+
+#: assets/shgdprdm_language.php:661
+#, fuzzy
+msgid ""
+"%sMultiple records found%sMore than 1 user with same email address found"
+msgstr ""
+"%sMultiple enregistrements found%sPlus d'un utilisateur avec la même adresse "
+"e-mail trouvée"
+
+#: assets/shgdprdm_language.php:673
+#, fuzzy
+msgid "%sData set too large%sThe size of user data is too large for display"
+msgstr ""
+"%sLet de données trop grand%sLa taille des données utilisateur est trop "
+"grande pour l'affichage"
+
+#: assets/shgdprdm_language.php:685
+#, fuzzy
+msgid ""
+"%sAdministrator User%sThis action cannot be carried out on Administration "
+"Users"
+msgstr ""
+"%sAdministrator User%sCette action ne peut pas être effectuée sur les "
+"utilisateurs de l'administration"
+
+#: assets/shgdprdm_language.php:697
+#, fuzzy
+msgid ""
+"%sNo Search Details%sNo input details were detected in the search request"
+msgstr ""
+"%sNo Search Details%sAucun détail d'entrée n'a été détecté dans la demande "
+"de recherche"
+
+#: assets/shgdprdm_language.php:709
+#, fuzzy
+msgid ""
+"%sMultiple Inputs%sMultiple search inputs were detected. Search must be for "
+"a single user only"
+msgstr ""
+"%sMultiple Inputs%sPlusieurs entrées de recherche ont été détectées. La "
+"recherche doit être pour un seul utilisateur seulement"
+
+#: assets/shgdprdm_language.php:721
+#, fuzzy
+msgid ""
+"%s%sUpgrade to access all the %s Features!%s Select the %s plan %s that best "
+"suits your needs."
+msgstr ""
+"%s%sUpgrade pour accéder à toutes les fonctionnalités %s!%s Sélectionnez le "
+"plan %s %s qui répond le mieux à vos besoins."
+
+#: assets/shgdprdm_language.php:737
+#, fuzzy
+msgid ""
+"%sLicence Key Not Registered%sPlease Register & Activate your Licence Key to "
+"access the full suite of GDM features."
+msgstr ""
+"%sLicence Key Not Registered%sPlease Register - Activez votre clé de licence "
+"pour accéder à la suite complète de fonctionnalités GDM."
+
+#: assets/shgdprdm_language.php:751
+#, fuzzy
+msgid "%sData returned.%sUser data retrieved and returned for display"
+msgstr ""
+"%sData retourné.%sUser données récupérées et retournées pour l'affichage"
+
+#: assets/shgdprdm_language.php:762
+#, fuzzy
+msgid "Data downloaded. The size of user data is too large for display"
+msgstr ""
+"Données téléchargées. La taille des données utilisateur est trop grande pour "
+"être affichée"
+
+#: assets/shgdprdm_language.php:770
+#, fuzzy
+msgid "Data deleted. Requested user data deleted"
+msgstr "Données supprimées. Données utilisateur demandées supprimées"
+
+#: assets/shgdprdm_language.php:781
+#, fuzzy
+msgid "%sWarning!%"
+msgstr "%sAvertissement!%"
+
+#: assets/shgdprdm_language.php:801
+#, fuzzy
+msgid "Understanding your data is essential to the success of your business.%"
+msgstr "Comprendre vos données est essentiel au succès de votre entreprise.%"
+
+#: user/classes/shgdprdm_extTmpl.class.php:92
+#, fuzzy
+msgid "Your access link has expired."
+msgstr "Votre lien d'accès a expiré."
+
+#: user/classes/shgdprdm_extTmpl.class.php:107
+#, fuzzy
+msgid "Please contact %s to request a new link."
+msgstr "S'il vous plaît contacter %s pour demander un nouveau lien."
+
+#: user/classes/shgdprdm_extTmpl.class.php:118
+#: user/classes/shgdprdm_extTmpl.class.php:163
+#: user/classes/shgdprdm_extTmpl.class.php:190
+msgid "Contact"
+msgstr "Contact"
+
+#: user/classes/shgdprdm_extTmpl.class.php:124
+#: user/classes/shgdprdm_extTmpl.class.php:169
+#: user/classes/shgdprdm_extTmpl.class.php:196
+msgid "Return to"
+msgstr "Retour à"
+
+#: user/classes/shgdprdm_extTmpl.class.php:138
+msgid "Your Request for Account at %s to be Deleted has been processed."
+msgstr "Votre demande de compte à %s à supprimer a été traitée."
+
+#: user/classes/shgdprdm_extTmpl.class.php:145
+msgid "A confirmation email has been sent."
+msgstr "Un e-mail de confirmation a été envoyé."
+
+#: user/classes/shgdprdm_extTmpl.class.php:208 inc/shgdprdm_admin_nav.php:298
+msgid "Data must be downloaded prior to Deleting."
+msgstr "Les données doivent être téléchargées avant la suppression."
+
+#: user/classes/shgdprdm_extTmpl.class.php:225
+msgid "Request from"
+msgstr "Demande de"
+
+#: user/classes/shgdprdm_extTmpl.class.php:251 inc/shgdprdm_admin_nav.php:425
+msgid ""
+"Warning: If you have in-complete orders pending and execute this action %s "
+"will be unable to fulfil your order"
+msgstr ""
+"Avertissement: Si vous avez des ordres complets en attente et exécuter cette "
+"action %s ne sera pas en mesure de remplir votre commande"
+
+#: user/classes/shgdprdm_extTmpl.class.php:273 inc/shgdprdm_admin_nav.php:339
+msgid "First Name"
+msgstr "Prénom"
+
+#: user/classes/shgdprdm_extTmpl.class.php:277 inc/shgdprdm_admin_nav.php:343
+msgid "Last Name"
+msgstr "Nom de famille"
+
+#: user/classes/shgdprdm_extTmpl.class.php:281 inc/shgdprdm_admin_nav.php:347
+msgid "Email"
+msgstr "E-mail"
+
+#: user/classes/shgdprdm_extTmpl.class.php:285 inc/shgdprdm_admin_nav.php:351
+msgid "Login Name"
+msgstr "Identifiant"
+
+#: user/classes/shgdprdm_extTmpl.class.php:289 inc/shgdprdm_admin_nav.php:355
+msgid "Registration Date"
+msgstr "Date d'inscription"
+
+#: user/classes/shgdprdm_extTmpl.class.php:298
+msgid "You are about to sync this delete action on your local database."
+msgstr ""
+"Vous êtes sur le point de synchroniser cette action de suppression sur votre "
+"base de données locale."
+
+#: user/classes/shgdprdm_extTmpl.class.php:305
+msgid "This action cannot be undone"
+msgstr "Cette action est irréversible"
+
+#: user/classes/shgdprdm_extTmpl.class.php:313 inc/shgdprdm_admin_nav.php:375
+msgid "You can view our full %s Privacy Policy Here%s"
+msgstr "Consultez notre %s politique de confidentialité%s complète ici"
+
+#: user/classes/shgdprdm_extTmpl.class.php:351
+#: user/classes/shgdprdm_extTmpl.class.php:370
+#: user/classes/shgdprdm_extTmpl.class.php:389 inc/shgdprdm_admin_nav.php:400
+#: inc/shgdprdm_admin_nav.php:419 inc/shgdprdm_admin_nav.php:438
+#: inc/shgdprdm_disrec_helpers_prem.php:171
+#: inc/shgdprdm_disrec_helpers_prem.php:191
+#: inc/shgdprdm_disrec_helpers_prem.php:211 inc/shgdprdm_export_helpers.php:221
+#: inc/shgdprdm_export_helpers.php:239 inc/shgdprdm_export_helpers.php:257
+#: templates/shgdprdm_ext_disrec.php:31 templates/shgdprdm_ext_disrec.php:53
+#: templates/shgdprdm_ext_disrec.php:75
+msgid "Download %s"
+msgstr "Télécharger %s"
+
+#: user/classes/shgdprdm_extTmpl.class.php:358
+#: user/classes/shgdprdm_extTmpl.class.php:377
+#: user/classes/shgdprdm_extTmpl.class.php:396 inc/shgdprdm_admin_nav.php:407
+#: inc/shgdprdm_admin_nav.php:426 inc/shgdprdm_admin_nav.php:445
+#: inc/shgdprdm_disrec_helpers_prem.php:178
+#: inc/shgdprdm_disrec_helpers_prem.php:198
+#: inc/shgdprdm_disrec_helpers_prem.php:218 inc/shgdprdm_export_helpers.php:228
+#: inc/shgdprdm_export_helpers.php:246 inc/shgdprdm_export_helpers.php:264
+#: templates/shgdprdm_ext_disrec.php:38 templates/shgdprdm_ext_disrec.php:60
+#: templates/shgdprdm_ext_disrec.php:82
+#, fuzzy
+msgid "Download Format: %s"
+msgstr "Télécharger Format: %s"
+
+#: user/classes/shgdprdm_extTmpl.class.php:414 inc/shgdprdm_admin_nav.php:456
+#: inc/shgdprdm_export_helpers.php:274
+#, fuzzy
+msgid "Delete All Data"
+msgstr "Supprimer toutes les données"
+
+#: user/classes/shgdprdm_extTmpl.class.php:419 inc/shgdprdm_admin_nav.php:461
+#: inc/shgdprdm_export_helpers.php:279
+#, fuzzy
+msgid "Download %s Delete Data for Email %s"
+msgstr "Télécharger %s Supprimer des données pour Email %s"
+
+#: inc/shgdprdm_admin_nav.php:199
+#, fuzzy
+msgid "Please Purchase a Licence here to make this feature available"
+msgstr ""
+"S'il vous plaît acheter une licence ici pour rendre cette fonctionnalité "
+"disponible"
+
+#: inc/shgdprdm_admin_nav.php:246
+#, fuzzy
+msgid "Please Purchase a Licence here to make these features available"
+msgstr ""
+"S'il vous plaît acheter une licence ici pour rendre ces fonctionnalités "
+"disponibles"
+
+#: inc/shgdprdm_admin_nav.php:315
+msgid "CUSTOMER EMAIL"
+msgstr "EMAIL CLIENT"
+
+#: inc/shgdprdm_admin_nav.php:325
+msgid "Subject"
+msgstr "Sujet"
+
+#: inc/shgdprdm_admin_nav.php:338
+msgid "Verify Export/Delete"
+msgstr "Vérifier l'exportation/supprimer"
+
+#: inc/shgdprdm_admin_nav.php:355
+msgid "User Delete/Export Page View"
+msgstr "Afficher la page Supprimer/Export de l'utilisateur"
+
+#: inc/shgdprdm_admin_nav.php:366
+msgid ""
+"Updating the %sRight to Data%s section on the left will be reflected in this "
+"preview. This is the user page for Right to Forget / Portability requests. "
+"The %sRight to Data%s section is replicated on this page as well as your "
+"Privacy Policy page. You can also edit your Privacy Policy Page URL."
+msgstr ""
+"La mise à jour de la section %sRight to Data%s sur la gauche sera reflétée "
+"dans cet aperçu. Il s'agit de la page utilisateur pour les demandes Right to "
+"Forget / Portability. La section %sRight to Data%s est reproduite sur cette "
+"page ainsi que sur votre page De politique de confidentialité. Vous pouvez "
+"également modifier l'URL de votre page de politique de confidentialité."
+
+#: inc/shgdprdm_admin_nav.php:399
+msgid "Data Export / Delete Request from %s"
+msgstr "Exportation de données / Supprimer la demande de %s"
+
+#: inc/shgdprdm_admin_nav.php:340, 344, 348, 352, 356
+msgid "Example"
+msgstr "Exemple"
+
+#: inc/shgdprdm_disrec_helpers_prem.php:230
+#: templates/shgdprdm_ext_disrec.php:96
+msgid "Delete User"
+msgstr "Supprimer utilisateur"
+
+#: inc/shgdprdm_disrec_helpers_prem.php:235
+#: templates/shgdprdm_ext_disrec.php:101
+msgid "Download & Delete Data for ID %s"
+msgstr "Télécharger les données de suppression pour ID %s"
+
+#~ msgid "Privacy Policy Here"
+#~ msgstr "Politique de confidentialité ici"

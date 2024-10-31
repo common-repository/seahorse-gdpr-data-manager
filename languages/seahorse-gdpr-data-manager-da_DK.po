@@ -1,0 +1,593 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: seahorse-gdpr-data-manager 2.4.1\n"
+"POT-Creation-Date: 2019-10-10 17:44+0200\n"
+"PO-Revision-Date: 2019-10-30 16:36+0000\n"
+"Last-Translator: \n"
+"Language-Team: Seahorse Data\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: assets/shgdprdm_language.php:10
+msgid ""
+"Thanks for installing GDPR Data Manager, to access your licence key visit: "
+"%s."
+msgstr ""
+"Tak for at installere GDPR Data Manager, for at få adgang til dit licens "
+"nøgle besøg: %s."
+
+#: assets/shgdprdm_language.php:21
+msgid ""
+"Join us in celebrating the launch of the %s plugin with a %s3-Month Free "
+"Trial%s period! Limited time only."
+msgstr ""
+"Deltag i fejrer lanceringen af %s plugin med en %s3-måneders gratis "
+"prøveversion %s periode! Kun begrænset tid."
+
+#: assets/shgdprdm_language.php:33
+msgid "Search User"
+msgstr "Søg brugere"
+
+#: assets/shgdprdm_language.php:41
+msgid "Your Database"
+msgstr "Din Database"
+
+#: assets/shgdprdm_language.php:49
+msgid "Search"
+msgstr "Søg"
+
+#: assets/shgdprdm_language.php:57
+msgid "Pending"
+msgstr "Afventer"
+
+#: assets/shgdprdm_language.php:65
+msgid "Privacy Policy"
+msgstr "Privatlivspolitik"
+
+#: assets/shgdprdm_language.php:73
+msgid "Options"
+msgstr "Indstillinger"
+
+#: assets/shgdprdm_language.php:81
+msgid "History"
+msgstr "Historik"
+
+#: assets/shgdprdm_language.php:89
+msgid "Help & Support"
+msgstr "Hjælp & Support"
+
+#: assets/shgdprdm_language.php:97
+msgid "Register Licence"
+msgstr "Registrer Licens"
+
+#: assets/shgdprdm_language.php:106
+msgid "%s - Options"
+msgstr "%s - indstillinger"
+
+#: assets/shgdprdm_language.php:118
+msgid "Verification of Data Deletion Request"
+msgstr "Verificering af anmodning om data sletning"
+
+#: assets/shgdprdm_language.php:127
+msgid ""
+"%sPlease confirm that you have requested your data be completely removed "
+"from the %s database.%s%sThis action cannot be undone. For security reasons "
+"this link will expire in 24 hours and can only be used once. If you do "
+"nothing, the status of your data will remain unchanged.%s%sClick this link "
+"to verify the request: %s"
+msgstr ""
+"%sPlease confirm that you have requested your data be completely removed "
+"from the %s database.%s%sThis action cannot be undone. For security reasons "
+"this link will expire in 24 hours and can only be used once. If you do "
+"nothing, the status of your data will remain unchanged.%s%sClick this link "
+"to verify the request: %s"
+
+#: assets/shgdprdm_language.php:144
+msgid ""
+"%sPlease confirm that you wish to proceed with the completion of Record "
+"Synchronisation.%sWhen executed, this action will delete all the user data "
+"for the syncronised record from the %s database.%sOnce executed, this action "
+"cannot be undone.%s%sClick this link to verify the request: %s"
+msgstr ""
+"%sPlease Bekræft, at du ønsker at fortsætte med færdiggørelsen af post "
+"synkroniseringen . %snår denne handling udføres, slettes alle brugerdata for "
+"den synkroniserede post fra databasen %s . %snår denne handling er udført, "
+"kan handlingen ikke fortryder . %s%sClick dette link til Bekræft "
+"anmodningen: %s"
+
+#: assets/shgdprdm_language.php:160
+msgid "Verification of Data Export Request"
+msgstr "Verifikation af anmodning om data eksport"
+
+#: assets/shgdprdm_language.php:169
+msgid ""
+"%sPlease confirm that you have requested your data be exported from the %s "
+"database.%s%sClick this link to verify the request: %s"
+msgstr ""
+"%sPlease confirm that you have requested your data be exported from the %s "
+"database.%s%sClick this link to verify the request: %s"
+
+#: assets/shgdprdm_language.php:184
+msgid ""
+"%sPlease ignore this email if this was made in error or may be malicious.%s"
+"%sRegards%s%s Team%s"
+msgstr ""
+"%sPlease ignore this email if this was made in error or may be malicious.%s"
+"%sRegards%s%s Team%s"
+
+#: assets/shgdprdm_language.php:199
+msgid "Verify Request"
+msgstr "Bekræft anmodning"
+
+#: assets/shgdprdm_language.php:212
+msgid "Search%sUser"
+msgstr "Søg i %sUser"
+
+#: assets/shgdprdm_language.php:222
+msgid "Enter User ID Number"
+msgstr "Angiv bruger-ID-nummer"
+
+#: assets/shgdprdm_language.php:229
+msgid "Enter User Email Address"
+msgstr "Indtast brugerens e-mailadresse"
+
+#: assets/shgdprdm_language.php:236
+msgid "The content has been deleted by the user"
+msgstr "Indholdet er blevet slettet af brugeren"
+
+#: assets/shgdprdm_language.php:245
+msgid ""
+"The boiler plate text provided here makes a number of assumptions. %s "
+"strongly advises that users read and edit the text below as required to best "
+"suit the operations of your site. The Right to Data section is only "
+"available to %s and %s users as this relates to %s services that require a "
+"licence."
+msgstr ""
+"The boiler plate text provided here makes a number of assumptions. %s "
+"strongly advises that users read and edit the text below as required to best "
+"suit the operations of your site. The Right to Data section is only "
+"available to %s and %s users as this relates to %s services that require a "
+"licence."
+
+#: assets/shgdprdm_language.php:260
+msgid "General information"
+msgstr "Generle oplysninger"
+
+#: assets/shgdprdm_language.php:269
+#, fuzzy
+msgid ""
+"%sWelcome to the %s Privacy Policy page. When you use site, you trust us "
+"with your information"
+msgstr ""
+"%svelkommen til siden fortrolighedspolitik for %s. Når du bruger webstedet, "
+"stoler du på os med dine oplysninger"
+
+#: assets/shgdprdm_language.php:288
+#, fuzzy
+msgid "Right to access, edit and delete data and to object to data processing"
+msgstr ""
+"Ret til at tilgå, redigere og slette data og til at gøre indsigelse mod "
+"databehandling"
+
+#: assets/shgdprdm_language.php:297
+#, fuzzy
+msgid ""
+"%sOur customers have the right to access, correct and delete personal data "
+"relating to them"
+msgstr ""
+"%sure kunder har ret til at få adgang til, rette og slette personoplysninger "
+"om dem"
+
+#: assets/shgdprdm_language.php:326
+#, fuzzy
+msgid "Management of personal data"
+msgstr "Forvaltning af personoplysninger"
+
+#: assets/shgdprdm_language.php:335
+#, fuzzy
+msgid ""
+"%sYou can view or edit your personal data online for many of the %s service"
+msgstr ""
+"%sDU kan få vist eller redigere dine personlige data online for mange af "
+"tjenesten %s"
+
+#: assets/shgdprdm_language.php:357
+#, fuzzy
+msgid "Information we collect"
+msgstr "Oplysninger, vi indsamler"
+
+#: assets/shgdprdm_language.php:366
+#, fuzzy
+msgid "%sThe %s site collects data to operate effectively and provid"
+msgstr "%swebstedet %s indsamler data for at fungere effektivt og provid"
+
+#: assets/shgdprdm_language.php:398
+#, fuzzy
+msgid "%s%s uses the data we collect for three basic purposes"
+msgstr "%s %s bruger de data, vi indsamler, til tre grundlæggende formål"
+
+#: assets/shgdprdm_language.php:420
+#, fuzzy
+msgid "Sharing your information"
+msgstr "Deling af dine oplysninger"
+
+#: assets/shgdprdm_language.php:429
+#, fuzzy
+msgid "%s%s will only share your personal dat"
+msgstr "%s %s vil kun dele din personlige dat"
+
+#: assets/shgdprdm_language.php:459
+#, fuzzy
+msgid ""
+"%s will search and process data in these tables: %scontains personally "
+"identifying information - PII%s"
+msgstr ""
+"%s vil søge efter og behandle data i disse tabeller: %sindeholder personligt "
+"identificerbare oplysninger-PII %s"
+
+#: assets/shgdprdm_language.php:472
+#, fuzzy
+msgid ""
+"%s will search these tables (%scontains personally identifying information - "
+"PII%s"
+msgstr ""
+"%s vil søge i disse tabeller ( %sindeholder personligt identificerbare "
+"oplysninger-PII %s"
+
+#: assets/shgdprdm_language.php:488
+#, fuzzy
+msgid "%s will not search this table"
+msgstr "%s vil ikke søge i denne tabel"
+
+#: assets/shgdprdm_language.php:500
+msgid "Upgrade to the %s Version to expand what data can be searched: %s | %s"
+msgstr ""
+"Opgrader til %s Versionen for at udvide de data, der kan søges i: %s | %s"
+
+#: assets/shgdprdm_language.php:516
+#, fuzzy
+msgid "%sInvalid email format.%sEmail string value was not of valid format"
+msgstr ""
+"%singyldigt e-mail-format . %se-mail-strengværdi var ikke et gyldigt format"
+
+#: assets/shgdprdm_language.php:527
+#, fuzzy
+msgid "Cannot connect to DB. CMS app was unable to connect to the DB"
+msgstr ""
+"Der kan ikke oprettes forbindelse til DB. CMS app kunne ikke oprette "
+"forbindelse til DB"
+
+#: assets/shgdprdm_language.php:535
+#, fuzzy
+msgid "DB table not found. Table declared in module code was not found"
+msgstr ""
+"DB-tabellen blev ikke fundet. Tabel, som er erklæret i modul kode, blev ikke "
+"fundet"
+
+#: assets/shgdprdm_language.php:543
+#, fuzzy
+msgid "Data export error. Could not export data from table (+MySQL error)"
+msgstr "Data Eksportfejl. Kunne ikke eksportere data fra tabel (+ MySQL-fejl)"
+
+#: assets/shgdprdm_language.php:551
+#, fuzzy
+msgid "MySQL error Return MySQL system error for display"
+msgstr "MySQL fejl retur MySQL systemfejl for display"
+
+#: assets/shgdprdm_language.php:559
+#, fuzzy
+msgid "Delete data error. Error deleting data (+MySQL error)"
+msgstr "Slet datafejl. Fejl ved sletning af data (+ MySQL-fejl)"
+
+#: assets/shgdprdm_language.php:568
+#, fuzzy
+msgid ""
+"%sInvalid/Unknown Email%sThe Email address provided is not valid or is "
+"unknown"
+msgstr ""
+"%sInvalid/ukendt E-mail %sden leverede e-mailadresse er ikke gyldig eller er "
+"ukendt"
+
+#: assets/shgdprdm_language.php:580
+#, fuzzy
+msgid ""
+"%sInvalid/Unknown User ID%sThe User ID Number provided is not valid or is "
+"unknown"
+msgstr ""
+"%sInvalid/ukendt bruger-ID %sdet leverede bruger-ID-nummer er ugyldigt eller "
+"er ukendt"
+
+#: assets/shgdprdm_language.php:592
+#, fuzzy
+msgid "%sInvalid Request%sYou are not authorised to carry out this request"
+msgstr ""
+"%singyldig anmodning %sDU har ikke tilladelse til at udføre denne anmodning"
+
+#: assets/shgdprdm_language.php:604
+#, fuzzy
+msgid ""
+"%sINTENTIONAL TESTING ERROR CREATED (Replicate err_009)%sYou are not "
+"authorised to carry out this request"
+msgstr ""
+"%sINTENTIONAL test fejl oprettet (Repliker err_009) %sDU har ikke tilladelse "
+"til at udføre denne anmodning"
+
+#: assets/shgdprdm_language.php:616
+#, fuzzy
+msgid ""
+"%sData Retrieval Error%sThere is a problem with the retrieved data.%sPlease "
+"contact %s"
+msgstr ""
+"%shentning af datafejl %sder er et problem med de hentede data . %sPlease "
+"kontakt %s"
+
+#: assets/shgdprdm_language.php:630
+msgid ""
+"%sData Synchronise Error%sA problem has been identifed when attempting to "
+"Synchronise these data.%sPlease contact %sError Ref: "
+msgstr ""
+"%sdata Synkroniser fejl %sA problem er blevet hjaelp, når du forsøger at "
+"synkronisere disse data . %splease kontakt %serror Ref: "
+
+#: assets/shgdprdm_language.php:649
+#, fuzzy
+msgid "%sNo records found%sSearch terms returned 0 results"
+msgstr "%sNo poster fundet %ssøge termer returnerede 0 resultater"
+
+#: assets/shgdprdm_language.php:661
+#, fuzzy
+msgid ""
+"%sMultiple records found%sMore than 1 user with same email address found"
+msgstr ""
+"%sMultiple Records fandt %sMere end 1 bruger med samme e-mailadresse fundet"
+
+#: assets/shgdprdm_language.php:673
+#, fuzzy
+msgid "%sData set too large%sThe size of user data is too large for display"
+msgstr ""
+"%sdatasæt er for store %sstørrelsen på brugerdata er for stor til visning"
+
+#: assets/shgdprdm_language.php:685
+#, fuzzy
+msgid ""
+"%sAdministrator User%sThis action cannot be carried out on Administration "
+"Users"
+msgstr ""
+"%sAdministrator bruger %sdenne handling kan ikke udføres på administrations "
+"brugere"
+
+#: assets/shgdprdm_language.php:697
+#, fuzzy
+msgid ""
+"%sNo Search Details%sNo input details were detected in the search request"
+msgstr "%sNo søge detaljer %sNo input detaljer blev fundet i søgeanmodningen"
+
+#: assets/shgdprdm_language.php:709
+#, fuzzy
+msgid ""
+"%sMultiple Inputs%sMultiple search inputs were detected. Search must be for "
+"a single user only"
+msgstr ""
+"%sMultiple indgange %sMultiple søge input blev fundet. Søgningen skal kun "
+"være for en enkelt bruger"
+
+#: assets/shgdprdm_language.php:721
+#, fuzzy
+msgid ""
+"%s%sUpgrade to access all the %s Features!%s Select the %s plan %s that best "
+"suits your needs."
+msgstr ""
+"%s %sUpgrade for at få adgang til alle %s-funktionerne! %s Vælg den %s-plan "
+"%s, der passer bedst til dine behov."
+
+#: assets/shgdprdm_language.php:737
+#, fuzzy
+msgid ""
+"%sLicence Key Not Registered%sPlease Register & Activate your Licence Key to "
+"access the full suite of GDM features."
+msgstr ""
+"%slicens nøgle ikke registreret %sPlease register & Aktivér din licens nøgle "
+"for at få adgang til den fulde suite af GDM-funktioner."
+
+#: assets/shgdprdm_language.php:751
+#, fuzzy
+msgid "%sData returned.%sUser data retrieved and returned for display"
+msgstr ""
+"%sData blev returneret . %sUser data, som er hentet og returneret til visning"
+
+#: assets/shgdprdm_language.php:762
+#, fuzzy
+msgid "Data downloaded. The size of user data is too large for display"
+msgstr "Data hentet. Størrelsen på brugerdata er for stor til visning"
+
+#: assets/shgdprdm_language.php:770
+#, fuzzy
+msgid "Data deleted. Requested user data deleted"
+msgstr "Data slettet. Anmodede brugerdata slettet"
+
+#: assets/shgdprdm_language.php:781
+#, fuzzy
+msgid "%sWarning!%"
+msgstr "%spåner!%"
+
+#: assets/shgdprdm_language.php:801
+#, fuzzy
+msgid "Understanding your data is essential to the success of your business.%"
+msgstr ""
+"Det er afgørende for din virksomheds succes, at du forstår dine data .%"
+
+#: user/classes/shgdprdm_extTmpl.class.php:92
+msgid "Your access link has expired."
+msgstr "Adgangs linket er udløbet."
+
+#: user/classes/shgdprdm_extTmpl.class.php:107
+msgid "Please contact %s to request a new link."
+msgstr "Kontakt %s for at anmode om et nyt link."
+
+#: user/classes/shgdprdm_extTmpl.class.php:118
+#: user/classes/shgdprdm_extTmpl.class.php:163
+#: user/classes/shgdprdm_extTmpl.class.php:190
+msgid "Contact"
+msgstr "Kontakt"
+
+#: user/classes/shgdprdm_extTmpl.class.php:124
+#: user/classes/shgdprdm_extTmpl.class.php:169
+#: user/classes/shgdprdm_extTmpl.class.php:196
+msgid "Return to"
+msgstr "Tilbage"
+
+#: user/classes/shgdprdm_extTmpl.class.php:138
+msgid "Your Request for Account at %s to be Deleted has been processed."
+msgstr "Din anmodning om konto på %s, der skal slettes, er blevet behandlet."
+
+#: user/classes/shgdprdm_extTmpl.class.php:145
+msgid "A confirmation email has been sent."
+msgstr "Der er sendt en bekræftelses-e-mail."
+
+#: user/classes/shgdprdm_extTmpl.class.php:208 inc/shgdprdm_admin_nav.php:298
+msgid "Data must be downloaded prior to Deleting."
+msgstr "Data skal downloades, før de slettes."
+
+#: user/classes/shgdprdm_extTmpl.class.php:225
+msgid "Request from"
+msgstr "Anmodning fra"
+
+#: user/classes/shgdprdm_extTmpl.class.php:251 inc/shgdprdm_admin_nav.php:425
+msgid ""
+"Warning: If you have in-complete orders pending and execute this action %s "
+"will be unable to fulfil your order"
+msgstr ""
+"Advarsel: Hvis du har afsluttet ordrer, der afventer og udfører denne "
+"handling, vil %s ikke kunne opfylde din ordre"
+
+#: user/classes/shgdprdm_extTmpl.class.php:273 inc/shgdprdm_admin_nav.php:339
+msgid "First Name"
+msgstr "Fornavn"
+
+#: user/classes/shgdprdm_extTmpl.class.php:277 inc/shgdprdm_admin_nav.php:343
+msgid "Last Name"
+msgstr "Efternavn"
+
+#: user/classes/shgdprdm_extTmpl.class.php:281 inc/shgdprdm_admin_nav.php:347
+msgid "Email"
+msgstr "E-mail"
+
+#: user/classes/shgdprdm_extTmpl.class.php:285 inc/shgdprdm_admin_nav.php:351
+msgid "Login Name"
+msgstr "Brugernavn"
+
+#: user/classes/shgdprdm_extTmpl.class.php:289 inc/shgdprdm_admin_nav.php:355
+msgid "Registration Date"
+msgstr "Registreringsdato"
+
+#: user/classes/shgdprdm_extTmpl.class.php:298
+msgid "You are about to sync this delete action on your local database."
+msgstr "Du er ved at synkronisere denne slettehandling i den lokale database."
+
+#: user/classes/shgdprdm_extTmpl.class.php:305
+msgid "This action cannot be undone"
+msgstr "Denne handling kan ikke fortrydes"
+
+#: user/classes/shgdprdm_extTmpl.class.php:313 inc/shgdprdm_admin_nav.php:375
+msgid "You can view our full %s Privacy Policy Here%s"
+msgstr "Du kan se vores fulde %s fortrolighedspolitik her%s"
+
+#: user/classes/shgdprdm_extTmpl.class.php:351
+#: user/classes/shgdprdm_extTmpl.class.php:370
+#: user/classes/shgdprdm_extTmpl.class.php:389 inc/shgdprdm_admin_nav.php:400
+#: inc/shgdprdm_admin_nav.php:419 inc/shgdprdm_admin_nav.php:438
+#: inc/shgdprdm_disrec_helpers_prem.php:171
+#: inc/shgdprdm_disrec_helpers_prem.php:191
+#: inc/shgdprdm_disrec_helpers_prem.php:211 inc/shgdprdm_export_helpers.php:221
+#: inc/shgdprdm_export_helpers.php:239 inc/shgdprdm_export_helpers.php:257
+#: templates/shgdprdm_ext_disrec.php:31 templates/shgdprdm_ext_disrec.php:53
+#: templates/shgdprdm_ext_disrec.php:75
+msgid "Download %s"
+msgstr "Download %s"
+
+#: user/classes/shgdprdm_extTmpl.class.php:358
+#: user/classes/shgdprdm_extTmpl.class.php:377
+#: user/classes/shgdprdm_extTmpl.class.php:396 inc/shgdprdm_admin_nav.php:407
+#: inc/shgdprdm_admin_nav.php:426 inc/shgdprdm_admin_nav.php:445
+#: inc/shgdprdm_disrec_helpers_prem.php:178
+#: inc/shgdprdm_disrec_helpers_prem.php:198
+#: inc/shgdprdm_disrec_helpers_prem.php:218 inc/shgdprdm_export_helpers.php:228
+#: inc/shgdprdm_export_helpers.php:246 inc/shgdprdm_export_helpers.php:264
+#: templates/shgdprdm_ext_disrec.php:38 templates/shgdprdm_ext_disrec.php:60
+#: templates/shgdprdm_ext_disrec.php:82
+#, fuzzy
+msgid "Download Format: %s"
+msgstr "Overførsels format: %s"
+
+#: user/classes/shgdprdm_extTmpl.class.php:414 inc/shgdprdm_admin_nav.php:456
+#: inc/shgdprdm_export_helpers.php:274
+msgid "Delete All Data"
+msgstr "Slet alle data"
+
+#: user/classes/shgdprdm_extTmpl.class.php:419 inc/shgdprdm_admin_nav.php:461
+#: inc/shgdprdm_export_helpers.php:279
+#, fuzzy
+msgid "Download %s Delete Data for Email %s"
+msgstr "Hent %s Slet data for mail %s"
+
+#: inc/shgdprdm_admin_nav.php:199
+#, fuzzy
+msgid "Please Purchase a Licence here to make this feature available"
+msgstr "Køb venligst en licens her for at gøre denne funktion tilgængelig"
+
+#: inc/shgdprdm_admin_nav.php:246
+#, fuzzy
+msgid "Please Purchase a Licence here to make these features available"
+msgstr "Køb venligst en licens her for at gøre disse funktioner tilgængelige"
+
+#: inc/shgdprdm_admin_nav.php:315
+msgid "CUSTOMER EMAIL"
+msgstr "KUNDE E-MAIL"
+
+#: inc/shgdprdm_admin_nav.php:325
+msgid "Subject"
+msgstr "Emne"
+
+#: inc/shgdprdm_admin_nav.php:338
+msgid "Verify Export/Delete"
+msgstr "Bekræft eksport/sletning"
+
+#: inc/shgdprdm_admin_nav.php:355
+msgid "User Delete/Export Page View"
+msgstr "Bruger slet/Eksporter sidevisning"
+
+#: inc/shgdprdm_admin_nav.php:366
+msgid ""
+"Updating the %sRight to Data%s section on the left will be reflected in this "
+"preview. This is the user page for Right to Forget / Portability requests. "
+"The %sRight to Data%s section is replicated on this page as well as your "
+"Privacy Policy page. You can also edit your Privacy Policy Page URL."
+msgstr ""
+"Opdatering af afsnittet %sRight til data %s til venstre afspejles i denne "
+"eksempelvisning. Dette er den bruger side for retten til at glemme/bærbarhed "
+"anmodninger. Afsnittet %sRight to data %s replikeres på denne side samt din "
+"fortrolighedspolitik side. Du kan også redigere din fortrolighedspolitik "
+"side URL."
+
+#: inc/shgdprdm_admin_nav.php:399
+msgid "Data Export / Delete Request from %s"
+msgstr "Anmodning om data eksport/-sletning fra %s"
+
+#: inc/shgdprdm_admin_nav.php:340, 344, 348, 352, 356
+msgid "Example"
+msgstr "Eksempel"
+
+#: inc/shgdprdm_disrec_helpers_prem.php:230
+#: templates/shgdprdm_ext_disrec.php:96
+msgid "Delete User"
+msgstr "Slet bruger"
+
+#: inc/shgdprdm_disrec_helpers_prem.php:235
+#: templates/shgdprdm_ext_disrec.php:101
+msgid "Download & Delete Data for ID %s"
+msgstr "Hent & Slet data for ID'ET %s"
